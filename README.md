@@ -1,2 +1,3 @@
 # hello-world
 Started from here...
+I am new in this industry and wanna explore a lot about it.
